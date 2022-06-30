@@ -1,2 +1,2 @@
 # side-projects
-My side projects on Java EE, Angular, RESTful, SOAP, ... and everything in between.
+My side projects on Java EE, Angular, RESTful, JWT, ... and everything in between.
